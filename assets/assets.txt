@@ -4,6 +4,15 @@ i:characters/man_blue_shirt.png:characters/man_blue_shirt-54d8bbab21196599d9980a
 d:maps:maps:0:application/unknown:1
 i:maps/map.png:maps/map-0cdfd321e29e61d6068c6226d34daf89.png:8184253:image/png:1
 d:media:media:0:application/unknown:1
+i:media/balcony.jpg:media/balcony-520869bda1b727963dbb1b55d212b8b0.jpg:561570:image/jpeg:1
+i:media/bathroom.png:media/bathroom-d4bde04156cf80fe17e7850a271a59ef.png:3352806:image/png:1
+i:media/fight-on-bed.jpg:media/fight-on-bed-bdf783ee62899f84b9fbd3aa218faf3a.jpg:842809:image/jpeg:1
+i:media/freinds-flatroom.jpg:media/freinds-flatroom-cf4dec56f279725a4b077a17fe8d0adf.jpg:949947:image/jpeg:1
+i:media/kitchen.jpg:media/kitchen-b84ec39e71a9607a905ce7475b9d8f30.jpg:716715:image/jpeg:1
+i:media/men-bedroom.jpg:media/men-bedroom-3c9fb35918dc47dcfe6b4a09928eb965.jpg:538374:image/jpeg:1
+i:media/monicas-apartment.jpg:media/monicas-apartment-cdd96492bf693c73a3183e08b5d13278.jpg:1640414:image/jpeg:1
+i:media/penguin-bedroom.jpg:media/penguin-bedroom-08a3ccc6eec25ebec423fc298c24153e.jpg:470696:image/jpeg:1
+i:media/women-bedroom.png:media/women-bedroom-87d98c869086af9a6858e53e04fb79d6.png:4887472:image/png:1
 i:press-x.png:press-x-db761b58fb84b5e61705e7e2d00edb0c.png:5920:image/png:1
 d:tools:tools:0:application/unknown:1
 i:tools/close-icon.png:tools/close-icon-cfdbafe37f7253f018b83eb689f02d2e.png:20386:image/png:1
