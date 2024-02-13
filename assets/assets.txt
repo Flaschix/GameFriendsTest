@@ -1,6 +1,6 @@
 d:assets:assets:0:application/unknown:1
 d:characters:characters:0:application/unknown:1
-i:characters/man_blue_shirt.png:characters/man_blue_shirt-54d8bbab21196599d9980a09abe69745.png:7952:image/png:1
+i:characters/character.png:characters/character-b00ca56c96bcb572bdff4bb2d6da50fa.png:8563:image/png:1
 d:maps:maps:0:application/unknown:1
 i:maps/map.png:maps/map-95637e775f3edec5f968ce1f1deb1562.png:3525369:image/png:1
 d:media:media:0:application/unknown:1
