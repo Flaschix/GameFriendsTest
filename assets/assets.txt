@@ -5,7 +5,7 @@ d:maps:maps:0:application/unknown:1
 i:maps/map.png:maps/map-95637e775f3edec5f968ce1f1deb1562.png:3525369:image/png:1
 d:media:media:0:application/unknown:1
 i:media/1.png:media/1-95047865e8ffd10c73dcf27f2c263417.png:770483:image/png:1
-i:media/2.png:media/2-553d091fe9bbe5acc5fc3c13881509af.png:1088996:image/png:1
+i:media/2.png:media/2-8cb1882f1853be2d8673c94f51c42bcb.png:1093340:image/png:1
 i:media/3.png:media/3-fe2eba78e843a8306e4a58c5e6c29947.png:4065574:image/png:1
 i:media/4.png:media/4-354b66875b82946bf92d28e4e56dd3fc.png:2346369:image/png:1
 i:media/5.png:media/5-d5539b3504945a82f2fd8f6fa6658cf5.png:2224711:image/png:1
